@@ -1,7 +1,14 @@
 FLAGS = -Wall -Wextra -Werror
-FILES = src/main.c \
-		src/ui.c
+MAIN = src/main.c
+
+ALL = src/ui.c
+
+UI = src/ui.c
+
+ui:
+	gcc $(FLAGS) $(MAIN) $(UI) -o tests/ui_test
+	./tests/ui_test
 
 all:
-	gcc $(FLAGS) $(FILES) -o Finance_Game_Simulator
-	./Finance_Game_Simulator
+	gcc $(FLAGS) $(MAIN) $(ALL) -o Game
+	./Game
