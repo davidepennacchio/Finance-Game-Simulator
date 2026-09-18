@@ -2,7 +2,6 @@ ALL = 	src/database.c \
 		src/engine.c \
 		src/main.c \
 		src/ui.c \
-		src/utils.c \
 		src/engine/market/demand.c \
 		src/engine/market/prices.c \
 		src/engine/market/supply.c \

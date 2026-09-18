@@ -2,6 +2,7 @@
 #define ENGINE_H
 
 #include "data_structures.h"
+#include "utils.h"
 #include "ui.h"
 #include "database.h"
 

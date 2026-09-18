@@ -7,8 +7,4 @@
 #include <math.h>
 #include "data_structures.h"
 
-// Data structure Functions
-
-
-
 #endif
