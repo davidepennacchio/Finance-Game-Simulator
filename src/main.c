@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, Banking Systems!\n");
+    main_loop();
     return 0;
 }
