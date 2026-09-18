@@ -9,4 +9,6 @@ Ideated, architectured and programmed by me because I was bored before the start
 The code is completely open-source and written in C.
 I use ncurses for the terminal ui, sqlite for the database and juste pure standard library C for the engine logic
 
-To play the game just clone the repo in local and in terminal while being in the repo local folder type make (for the next times just time ./Game cause you already compiled it)
+To play the game just clone the repo in local and in terminal while being in the repo local folder type make. to compile the project then ./Game to play.
+
+It will have local data persistence
