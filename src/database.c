@@ -1,2 +1,2 @@
-#include "../headers/database.h"
+#include "database.h"
 

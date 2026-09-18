@@ -5,9 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include "settings.h"
+#include "data_structures.h"
 
-// Shares/Companies Lists Functions
+// Data structure Functions
 
 
 

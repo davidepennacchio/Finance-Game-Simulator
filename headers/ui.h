@@ -1,7 +1,7 @@
 #ifndef UI_H
 #define UI_H
 
-#include "settings.h"
+#include "data_structures.h"
 
 
 
