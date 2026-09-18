@@ -1,9 +1,8 @@
 #ifndef TICK_H
-#define TICK_h
+#define TICK_H
 
-#include "data_structures.h"
 #include "utils.h"
 
-
+void tick_run(t_engine *engine);
 
 #endif
